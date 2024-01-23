@@ -6,6 +6,11 @@
     --Off_Black: hsl(0, 0%, 8%);
 }
 
+*{
+    box-sizing:border-box;
+    margin:0px;
+    padding:0px;
+}
 
 
 /*Custome css*/
